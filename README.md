@@ -1,4 +1,4 @@
-## Welcome Everyone! ![giphy-greet](https://user-images.githubusercontent.com/70081671/123350981-2a4d8c00-d52a-11eb-9ceb-68ada49c4f40.gif)
+## Welcome Everyone! <img src="https://user-images.githubusercontent.com/70081671/123350981-2a4d8c00-d52a-11eb-9ceb-68ada49c4f40.gif" width="100" height="100"/>
 **I'm [Paolo Joaquin](https://github.com/paolojoaquin), I'm a Frontend developer who likes coding and make change in the tech industry**
 
 
