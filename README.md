@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{paolojoaquin}/count.svg" alt="PaoloJoaquinPinto :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{paolojoaquinp}/count.svg" alt="PaoloJoaquinPinto :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolojoaquin&langs_count=10&theme=synthwave&layout=compact" alt="PaoloJoaquin:: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolojoaquinp&langs_count=10&theme=synthwave&layout=compact" alt="PaoloJoaquin:: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=paolojoaquin&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=paolojoaquinp&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paolojoaquin&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paolojoaquinp&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 <!--p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p-->
 ---
