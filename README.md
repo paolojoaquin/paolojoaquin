@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js in a depth way.
 - 🤔 I’m looking for help with with understand more depthly next.js.
 - 📫 How to reach me: [paolojoaquinpintoperez@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=paolojoaquinpintoperez@gmail.com&su=Requerimiento%20de%20Servicio%20como%20Frontend%20Developer)
-- 😄 Take a look to my portfolio: [https://paolojoaquinp.netlify.app/](https://paolojoaquinp.netlify.app/)
+- 😄 Take a look at my portfolio: [https://paolojoaquinp.netlify.app/](https://paolojoaquinp.netlify.app/)
 - ⚡ Fun fact: I don't like the fun facts.
 <h2 align="left">Also you can reach me at :alien:</h2>
 
