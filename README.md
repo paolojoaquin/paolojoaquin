@@ -1,5 +1,5 @@
 ## Welcome Everyone! <img src="https://user-images.githubusercontent.com/70081671/123350981-2a4d8c00-d52a-11eb-9ceb-68ada49c4f40.gif" width="100" height="100"/>
-**I'm [Paolo Joaquin](https://github.com/paolojoaquin), I'm a Frontend developer who likes coding and make change in the tech industry**
+**I'm [Paolo Joaquin](https://github.com/paolojoaquin), I'm a Software developer who likes coding and make change in the tech industry**
 
 
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 😄 Pronouns: ... -->
 - :octocat: I’m currently working as Frontend Developer on my own projects.
-- 🌱 I’m currently learning React.js in a depth way.
+- 🌱 I’m currently learning React.js, Flutter, Python in a depth way.
 - 🤔 I’m looking for help with with understand more depthly next.js.
 - 📫 How to reach me: [paolojoaquinpintoperez@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=paolojoaquinpintoperez@gmail.com&su=Requerimiento%20de%20Servicio%20como%20Frontend%20Developer)
 - 😄 Take a look at my portfolio: [https://paolojoaquinp.netlify.app/](https://paolojoaquinp.netlify.app/)
