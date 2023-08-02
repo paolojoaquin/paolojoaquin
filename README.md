@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 😄 Pronouns: ... -->
-- :octocat: I’m currently working as Frontend Developer on my own projects.
-- 🌱 I’m currently learning React.js, Flutter, Python in a depth way.
-- 🤔 I’m looking for help with with understand more depthly next.js.
+- :octocat: I’m currently work as Software Developer on my own projects.
+- 🌱 I’m currently make product in React.js, Python, but Flutter in a depth way.
 - 📫 How to reach me: [paolojoaquinpintoperez@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=paolojoaquinpintoperez@gmail.com&su=Requerimiento%20de%20Servicio%20como%20Frontend%20Developer)
 - 😄 Take a look at my portfolio: [https://paolojoaquinp.netlify.app/](https://paolojoaquinp.netlify.app/)
 - ⚡ Fun fact: I don't like the fun facts.
